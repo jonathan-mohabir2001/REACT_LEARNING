@@ -1,0 +1,11 @@
+{
+  "name": "review",
+  "version": "1.0.0",
+  "description": "Review of express ",
+  "main": "express_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Mohabir",
+  "license": "ISC"
+}
